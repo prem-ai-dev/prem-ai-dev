@@ -9,6 +9,8 @@
 *   **University Management System**
     *   📈 **18 unique clones** and counting.
     *   Focus on clean entity relationships and data modeling.
+*   **StreamLine Service (Current)**
+    *   Features: Repository patterns, JSON persistence, and decoupled service layers.
 
 ## What I'm Building
 Full-stack AI applications — **FastAPI backends + Gemini AI + MongoDB + React frontends**
